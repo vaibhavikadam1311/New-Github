@@ -1,0 +1,5 @@
+devops tools
+  git
+  docker
+  terraform
+  jenkins
